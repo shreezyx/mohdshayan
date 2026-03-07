@@ -206,7 +206,7 @@ In Google Search Console URL Inspection tool, request indexing for:
 **🎊 YOU'RE 95% DONE!**
 
 The technical SEO foundation is complete and enterprise-grade. Just:
-1. Push the fixes I made
+1. Push the fixes made
 2. Set up Google Business Profile
 3. Add your website to LinkedIn
 4. Watch your rankings grow!
